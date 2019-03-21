@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b0b12</color>
+    <color name="colorPrimaryDark">#050301</color>
+    <color name="colorAccent">#3b2d32</color>
+    <color name="myBack">#030410</color>
+    <color name="myItems">#d1d1d1</color>
+    <color name="actionbar_opacity">#40000000</color>
+    <color name="actionbar_opacity2">#3f293a40</color>
+    <color name="tester">#030512</color>
+    <color name="transparent">#179ca2ca</color>
+
+</resources>

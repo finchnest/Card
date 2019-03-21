@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Control"
+        android:id="@+id/control">
+        <menu>
+            <item
+                android:id="@+id/nav_fav"
+                android:icon="@drawable/ic_menu_favorite"
+                android:title="Favorite"
+
+                />
+            <item
+                android:id="@+id/nav_tell"
+                android:icon="@drawable/ic_menu_tell"
+                android:title="Tell Friends" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_setting"
+                android:title="Setting" />
+        </menu>
+    </item>
+
+    <item android:title="App Info"
+        android:id="@+id/app_info"
+        >
+        <menu>
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_menu_rate"
+                android:title="Rate and Review" />
+            <item
+                android:id="@+id/nav_others"
+                android:icon="@drawable/ic_menu_other"
+                android:title="Other Apps" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="About" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_menu_exit"
+        android:title="Exit" />
+
+
+</menu>
